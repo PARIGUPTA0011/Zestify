@@ -1,0 +1,5 @@
+train: C:/Users/devdr/OneDrive/Desktop/YOLOV8/dataset/train/images
+val: C:/Users/devdr/OneDrive/Desktop/YOLOV8/dataset/valid/images
+
+nc: 1  # Number of classes
+names: ['maggi']  # List of class names
